@@ -1,0 +1,28 @@
+.bgColor {
+    background-color: #9A8D99;
+}
+
+.center {
+    text-align: center;
+}
+
+.margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li {
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-list {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+
+.text-completed {
+    text-decoration: line-through;
+}
